@@ -1,2 +1,2 @@
-# aa_cluster
-Clustering based off the Spotify Audio Analysis object
+# Audio Analysis Clustering
+Using UMAP and DBSCAN to make data driven decisions for a content-based recommendation system
